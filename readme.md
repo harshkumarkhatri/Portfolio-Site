@@ -5,7 +5,7 @@ This website is a build from a template which i got from Brad Traversy. He has a
 Originally it had 4 pages:- home, work, contact and about me but i added an extra page to display my certificates and achievements.<br>
 This website is hosted on github pages and you can check the website out by clicking this link:- bit.ly/iamharsh
 <br>
-Some snaps from the site:-<br>
+Some snaps from the site:-
 <p>
 <img src="screenshots/Screenshot from 2020-08-25 13-55-31.png" >
 <img src="screenshots/Screenshot from 2020-08-25 13-55-40.png" >
